@@ -1,0 +1,1 @@
+Hello world! This is my first GitHub repository, and I'm learning using the resources on the Odin Project.
